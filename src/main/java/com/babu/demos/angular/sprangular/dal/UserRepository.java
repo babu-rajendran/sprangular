@@ -1,6 +1,6 @@
-package com.babu.sprangular.dal;
+package com.babu.demos.angular.sprangular.dal;
 
-import com.babu.sprangular.model.User;
+import com.babu.demos.angular.sprangular.model.User;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

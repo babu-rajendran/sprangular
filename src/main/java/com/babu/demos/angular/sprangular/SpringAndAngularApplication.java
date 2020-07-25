@@ -1,13 +1,7 @@
-package com.babu.sprangular;
+package com.babu.demos.angular.sprangular;
 
-import com.babu.sprangular.dal.UserRepository;
-import com.babu.sprangular.model.User;
-import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.Bean;
-
-import java.util.stream.Stream;
 
 @SpringBootApplication
 public class SpringAndAngularApplication {

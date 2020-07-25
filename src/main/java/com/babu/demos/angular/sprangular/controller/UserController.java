@@ -1,7 +1,7 @@
-package com.babu.sprangular.controller;
+package com.babu.demos.angular.sprangular.controller;
 
-import com.babu.sprangular.dal.UserRepository;
-import com.babu.sprangular.model.User;
+import com.babu.demos.angular.sprangular.dal.UserRepository;
+import com.babu.demos.angular.sprangular.model.User;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;

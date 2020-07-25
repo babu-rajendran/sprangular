@@ -1,4 +1,4 @@
-package com.babu.sprangular.model;
+package com.babu.demos.angular.sprangular.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
